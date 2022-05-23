@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.sortable {
+    height: 100%;
+}
+
+/* .chakra-modal__content-container.css-v9b9hc {
+    display: none;
+}
+
+.chakra-modal__overlay.css-hdd9l7 {
+    display: none;
+} */
